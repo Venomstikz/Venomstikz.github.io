@@ -35,6 +35,19 @@ body {
     margin-left:3px;
     color:red;}
 #ay{color:red;}
+.Kobe{
+    background:red;
+    color:yellow;
+    margin-left:5px;}
+#wth1{font-size: 200%;
+    background:red;
+    color:yellow;}
+#wth2{font-size: 200%;
+    background:red;
+    color:yellow;}
+#wth3{font-size: 200%;
+    background:red;
+    color:yellow;}
 
 
 @-webkit-keyframes example {
